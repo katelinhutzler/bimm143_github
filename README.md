@@ -2,7 +2,7 @@
 
 My classwork from BIMM143 at UC San Diego.
 
-- Class 4: Introduction to R
+- Class 4: [Introduction to R](https://github.com/katelinhutzler/bimm143_github/blob/main/class04/class04.pdf)
 
 - Class 5: [Data visualization with ggplot2](https://github.com/katelinhutzler/bimm143_github/blob/main/Class05/Class05.pdf).  
 
